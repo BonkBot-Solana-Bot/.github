@@ -42,10 +42,6 @@ Security is built into every layer of BonkBot. The application never stores priv
 
 ---
 
-![BonkBot Interface](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcan-anyone-explain-to-me-wha-tis-happening-with-bonkbot-in-v0-rnv08jh2lxoc1.png%3Fwidth%3D2110%26format%3Dpng%26auto%3Dwebp%26s%3D742a925db3df2c1a36b1f1c28ba47ed4ac422a3b)
-
----
-
 ## ⚙️ System Requirements  
 
 - **OS**: Windows 10/11 (64-bit), macOS 12+  
